@@ -578,18 +578,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📊 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/ai-ticket-bot?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/ai-ticket-bot?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/ai-ticket-bot)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/ai-ticket-bot)
+![GitHub stars](https://img.shields.io/github/stars/bhaskarviswanadh/ai-ticket-bot?style=social)
+![GitHub forks](https://img.shields.io/github/forks/bhaskarviswanadh/ai-ticket-bot?style=social)
+![GitHub issues](https://img.shields.io/github/issues/bhaskarviswanadh/ai-ticket-bot)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/bhaskarviswanadh/ai-ticket-bot)
 
 ---
 
 ## 📞 Support
 
 - **Documentation**: Check the [docs](#-documentation) section
-- **Issues**: [GitHub Issues](https://github.com/yourusername/ai-ticket-bot/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/ai-ticket-bot/discussions)
+- **Issues**: [GitHub Issues](https://github.com/bhaskarviswanadh/ai-ticket-bot/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/bhaskarviswanadh/ai-ticket-bot/discussions)
 
 ---
 
