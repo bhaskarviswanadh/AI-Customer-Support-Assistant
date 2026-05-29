@@ -1,0 +1,8 @@
+Q: How do I reset my password?
+A: To reset your password, go to the login page and click "Forgot Password". Enter your email address and follow the instructions sent to your email. The reset link will expire in 24 hours for security.
+
+Q: I can't access my account
+A: Please check that you're using the correct email address and password. If you're still having trouble, try clearing your browser cache or contact our support team.
+
+Q: My account is locked
+A: If your account is locked due to multiple failed login attempts, wait 30 minutes before trying again. For immediate assistance, contact our support team with your account details. 

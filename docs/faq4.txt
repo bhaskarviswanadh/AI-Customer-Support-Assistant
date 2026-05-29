@@ -1,0 +1,8 @@
+Q: How do I cancel my subscription?
+A: Go to Settings > Subscription and click "Cancel Subscription". Your access will continue until the end of your current billing period.
+
+Q: Can I change my plan?
+A: Yes, you can upgrade or downgrade your plan at any time. Go to Settings > Subscription and select "Change Plan". Changes take effect immediately.
+
+Q: What's included in my plan?
+A: Check your current plan details in Settings > Subscription. You can see all features included in your plan and compare with other available options. 

@@ -1,0 +1,8 @@
+Q: The website is loading slowly
+A: Try refreshing the page or clearing your browser cache. If the problem continues, it might be a temporary server issue. Check our status page for updates.
+
+Q: I'm getting an error message
+A: Please note the exact error message and when it occurs. Try refreshing the page or using a different browser. If the error persists, contact support with the error details.
+
+Q: The page won't load
+A: Check your internet connection and try accessing the site from a different browser or device. If the problem continues, it may be a temporary outage. 

@@ -1,0 +1,8 @@
+Q: Do you have an API?
+A: Yes, we provide a REST API for developers. Documentation is available in our Developer Portal. You'll need an API key to access the API.
+
+Q: How do I integrate with other tools?
+A: We support integrations with popular tools like Slack, Zapier, and Microsoft Teams. Check our Integrations page for a full list and setup instructions.
+
+Q: Can I use webhooks?
+A: Yes, you can set up webhooks to receive real-time notifications. Configure webhooks in Settings > Integrations > Webhooks. 

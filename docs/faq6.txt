@@ -1,0 +1,8 @@
+Q: How do I use the search feature?
+A: Use the search bar at the top of the page. You can search by keywords, tags, or specific criteria. Advanced search options are available in the search settings.
+
+Q: Can I customize my dashboard?
+A: Yes, you can customize your dashboard by dragging and dropping widgets, changing layouts, and setting preferences in Settings > Dashboard.
+
+Q: How do I create a new project?
+A: Click the "New Project" button in the top navigation or go to Projects > Create New. Fill in the required information and click "Create". 

@@ -1,0 +1,8 @@
+Q: How do I contact support?
+A: You can contact us through the help center, email support@company.com, or call our support line at 1-800-SUPPORT. Live chat is also available during business hours.
+
+Q: What are your support hours?
+A: Our support team is available Monday through Friday, 9 AM to 6 PM EST. Emergency support is available 24/7 for critical issues.
+
+Q: How long does it take to get a response?
+A: We typically respond to support requests within 4 hours during business hours. For urgent issues, please mark your ticket as "High Priority". 

@@ -1,0 +1,8 @@
+Q: How do I enable two-factor authentication?
+A: Go to Settings > Security and click "Enable Two-Factor Authentication". You can use an authenticator app or receive SMS codes.
+
+Q: I lost my authenticator device
+A: Contact our support team immediately. You'll need to verify your identity before we can help you regain access to your account.
+
+Q: How do I change my security settings?
+A: Go to Settings > Security to manage your password, two-factor authentication, and other security preferences. 

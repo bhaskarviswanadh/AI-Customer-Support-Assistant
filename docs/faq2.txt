@@ -1,0 +1,8 @@
+Q: How do I update my billing information?
+A: Log into your account and go to Settings > Billing. You can update your payment method, billing address, and subscription details there.
+
+Q: I was charged twice
+A: If you notice a duplicate charge, please contact our billing department with your transaction ID and account details. We'll investigate and refund any duplicate charges within 3-5 business days.
+
+Q: My payment failed
+A: Check that your payment method is valid and has sufficient funds. You can update your payment information in your account settings. If the problem persists, contact our support team. 

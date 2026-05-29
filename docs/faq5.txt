@@ -1,0 +1,8 @@
+Q: How do I export my data?
+A: Go to Settings > Data Export to download your information. You can export your data in various formats including CSV and JSON.
+
+Q: How is my data protected?
+A: We use industry-standard encryption and security measures to protect your data. We never share your personal information with third parties without your consent.
+
+Q: Can I delete my account?
+A: Yes, you can delete your account in Settings > Privacy. Please note that this action is permanent and cannot be undone. 

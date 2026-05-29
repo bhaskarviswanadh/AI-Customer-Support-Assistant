@@ -1,0 +1,8 @@
+Q: Is there a mobile app?
+A: Yes, our mobile app is available for iOS and Android. Download it from the App Store or Google Play Store.
+
+Q: The app keeps crashing
+A: Try updating to the latest version of the app. If the problem continues, try uninstalling and reinstalling the app. Contact support if issues persist.
+
+Q: Can I use the app offline?
+A: Some features are available offline, but you'll need an internet connection for full functionality. Offline data will sync when you're back online. 
